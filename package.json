@@ -1,6 +1,6 @@
 {
   "name": "@gbesse/jev-irve-trip-fit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Classe des bornes de recharge selon les contraintes exprimées pour un trajet et explique chaque correspondance.",
   "type": "module",
   "license": "MIT",
